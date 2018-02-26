@@ -1,0 +1,114 @@
+Gocode pkg: "test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/test/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/test", InstallSuffix:""}
+Gocode pkg: "test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/test/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/test", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "leetcode22-25"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "leetcode"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "leetcode"
+Gocode pkg: "."
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode"
+Gocode pkg: "leetcode22_25"
+Gocode pkg: "."
+Gocode pkg: "leetcode22_25"
+Gocode pkg: "."
+Gocode pkg: "leetcode22_25"
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode22_25"
+Gocode pkg: "."
+Gocode pkg: "leetcode22_25"
+Gocode pkg: "leetcode22_25"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode22_25"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode22_25"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/SMR/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/SMR", InstallSuffix:""}
+Gocode pkg: "test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/6.824/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/6.824", InstallSuffix:""}
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/6.824/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/6.824", InstallSuffix:""}
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/MIT-6.824-2016/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/MIT-6.824-2016", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/MIT-6.824-2017/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/MIT-6.824-2017", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/MIT-6.824-2016/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/MIT-6.824-2016", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/6.824/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/6.824", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/MIT-6.824-2016/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/MIT-6.824-2016", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/6.824/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/6.824", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "raft"
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/6.824/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/6.824", InstallSuffix:""}
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/MIT-6.824-2016/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/MIT-6.824-2016", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/dataStructures/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/dataStructures", InstallSuffix:""}
+Gocode pkg: "raft"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/temp/mit-6.824-labs-2016/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/temp/mit-6.824-labs-2016", InstallSuffix:""}
+Gocode pkg: "leetcode26_30"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "leetcode26_30"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/leetcode/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/leetcode", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "leetcode26_30"
+Gocode pkg: "test"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}
+Gocode pkg: "."
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/linux_amd64:/home/tofar/Projects/Go/learn/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/home/tofar/Projects/Go/learn", InstallSuffix:""}

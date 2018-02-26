@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Anaconda",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Codecs33",
+		"DocBlockr",
+		"Git",
+		"GoSublime",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Terminal"
+	]
+}
