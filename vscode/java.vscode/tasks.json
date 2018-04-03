@@ -1,0 +1,41 @@
+{
+    "version": "0.1.0",
+    "command": "powershell",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "args": [
+        "/C"
+    ],
+    "tasks": [
+        {
+            "taskName": "javap",
+            "isShellCommand": true,
+            "isBuildCommand": true,
+            "suppressTaskName": true,
+            "args": [
+                "$start=Get-Date;javac ${file} ; java ${fileBasenameNoExtension} ; $end=Get-Date; ('[Finished in ' + ($end - $start).TotalSeconds+ ' s]')"
+            ],
+            "showOutput": "always"
+        },
+        {
+            "taskName": "java",
+            "command": "java",
+            "isShellCommand": true,
+            "isBuildCommand": true,
+            "args": [
+                "${fileBasenameNoExtension}"
+            ],
+            "showOutput": "always"
+        },
+        {
+            "taskName": "javac",
+            "command": "javac",
+            "isShellCommand": true,
+            "isBuildCommand": true,
+            "args": [
+                "${file}"
+            ],
+            "showOutput": "always"
+        }
+    ]
+}
